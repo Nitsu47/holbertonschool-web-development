@@ -26,15 +26,15 @@ This is the designer file that will be available on Figma:
 
 <details>
 <summary><h2 id="resources">Resources<h2></summary>
-* <a href="https://intranet.hbtn.io/concepts/834" target="blank">Some pointers about HTML</a>
-* <a href="https://intranet.hbtn.io/concepts/835" target="blank">HTML - elements of a web page</a>
-* <a href="https://intranet.hbtn.io/concepts/836" target="blank">HTML Foundations</a>
-* <a href="https://intranet.hbtn.io/concepts/837" target="blank">HTML - Semantic sectioning elements</a>
-* <a href="https://intranet.hbtn.io/concepts/838" target="blank">HTML Semantic Elements</a>
-* <a href="https://intranet.hbtn.io/concepts/839" target="blank">HTML Validation</a>
-* <a href="https://learn.shayhowe.com/html-css/" target="blank">Learn to Code HTML & CSS</a>
-* <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="blank">Introduction to HTML</a>
-* <a href="https://developer.mozilla.org/en-US/" target="blank">MDN</a>
+* <a href="https://intranet.hbtn.io/concepts/834" target="blank">Some pointers about HTML</a><br>
+* <a href="https://intranet.hbtn.io/concepts/835" target="blank">HTML - elements of a web page</a><br>
+* <a href="https://intranet.hbtn.io/concepts/836" target="blank">HTML Foundations</a><br>
+* <a href="https://intranet.hbtn.io/concepts/837" target="blank">HTML - Semantic sectioning elements</a><br>
+* <a href="https://intranet.hbtn.io/concepts/838" target="blank">HTML Semantic Elements</a><br>
+* <a href="https://intranet.hbtn.io/concepts/839" target="blank">HTML Validation</a><br>
+* <a href="https://learn.shayhowe.com/html-css/" target="blank">Learn to Code HTML & CSS</a><br>
+* <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="blank">Introduction to HTML</a><br>
+* <a href="https://developer.mozilla.org/en-US/" target="blank">MDN</a><br>
 </details>
 
 </details>
