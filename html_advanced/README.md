@@ -24,9 +24,8 @@ In this project, i will implement from scratch a webpage from a designer file, f
 This is the designer file that will be available on Figma:
 ![Webpage to imitate](image.png)
 
-## Resources
 <details>
-<summary><h2>Resources<h2></summary>
+<summary><h2 id="resources">Resources<h2></summary>
 * <a href="https://intranet.hbtn.io/concepts/834" target="blank">Some pointers about HTML</a>
 * <a href="https://intranet.hbtn.io/concepts/835" target="blank">HTML - elements of a web page</a>
 * <a href="https://intranet.hbtn.io/concepts/836" target="blank">HTML Foundations</a>
@@ -45,10 +44,7 @@ This is the designer file that will be available on Figma:
 ## Authors
   
 &ensp;[<img src="https://img.shields.io/badge/Nitsu47-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Nitsu47)
-
-<br>
-════════════════════════════════════════
-<br>
+<br>════════════════════════════════════════<br>
 
 Last updated: August 12, 2024
 
